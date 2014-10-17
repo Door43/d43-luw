@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[luw:home|Door43 (luw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-luw|d43-luw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-luw/archive/master.zip|d43-luw.zip]]
+
+**Recent Changes**
+{{changes>ns = luw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/luw|Ethnologue data]]
+
